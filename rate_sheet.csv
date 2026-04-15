@@ -1,0 +1,17 @@
+loan_type,term_years,credit_tier,rate_pct,max_ltv_pct
+conventional,30,excellent,6.250,97
+conventional,30,good,6.625,95
+conventional,30,fair,7.125,90
+conventional,15,excellent,5.500,97
+conventional,15,good,5.875,95
+conventional,15,fair,6.375,90
+fha,30,excellent,6.000,96.5
+fha,30,good,6.000,96.5
+fha,30,fair,6.250,96.5
+va,30,excellent,5.750,100
+va,30,good,6.125,100
+va,30,fair,6.500,100
+jumbo,30,excellent,6.750,80
+jumbo,30,good,7.125,75
+jumbo,15,excellent,6.125,80
+jumbo,15,good,6.500,75
